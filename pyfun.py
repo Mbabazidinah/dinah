@@ -1,19 +1,28 @@
-#print("Hello, word")
-#name = input("enter any name:")
-# print(len(name))
-# names = input("enter any names you want:").replace(" ","")
-# print(len(names))
-# a = input("enter the first name A:")
-# b = input("enter the second name B:")
-# c = input("enter the third name C:")
-# d = input("enter the forth name D:")
-# e = input("enter the fifth name E:")
-# a = a.replace(" ","")
-# b = b.replace(" ","")
-# c = c.replace(" ","")
-# d = d.replace(" ","")
-# e = e.replace(" ","")
-# print("lengthof A=", len(a),"lengthof B=", len(b),"lengthof C=", len(c),"lengthof D=", len(d),"lengthof E=", len(e))
+# first program
+print("Hello, word")
+
+# second program
+name = input("enter any name:")
+ print(len(name))
+
+# third program
+ names = input("enter any names you want:").replace(" ","")
+ print(len(names))
+
+# fourth program
+ a = input("enter the first name A:")
+ b = input("enter the second name B:")
+ c = input("enter the third name C:")
+ d = input("enter the forth name D:")
+ e = input("enter the fifth name E:")
+ a = a.replace(" ","")
+ b = b.replace(" ","")
+ c = c.replace(" ","")
+ d = d.replace(" ","")
+ e = e.replace(" ","")
+ print("lengthof A=", len(a),"lengthof B=", len(b),"lengthof C=", len(c),"lengthof D=", len(d),"lengthof E=", len(e))
+
+#fifth program
 arr1 = ['a', 'i', 'o', 'e', 'u']
 arr2 = ['k', 'j', 'p', 't', 'f']
 
