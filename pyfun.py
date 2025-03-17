@@ -1,3 +1,5 @@
-print("Hello, word")
-name = input("enter any name:")
-print(len(name))
+#print("Hello, word")
+#name = input("enter any name:")
+# print(len(name))
+# names = input("enter any names you want:").replace(" ","")
+# print(len(names))
